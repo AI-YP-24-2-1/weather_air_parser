@@ -1,0 +1,11 @@
+*.csv
+*.sqlite
+*.json
+*.txt
+air_quality_by_city/
+system_docs/
+weather_by_city/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
